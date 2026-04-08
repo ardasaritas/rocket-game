@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode build output
+build/
+DerivedData/
+*.xcarchive
+*.ipa
+
+# Xcode user data
+*.xcuserstate
+xcuserdata/
+*.xcworkspace/xcuserdata/
+
+# Xcode local settings
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Compiled object files
+*.o
+*.a
+*.dylib
+
+# Executables
+rocket-game
