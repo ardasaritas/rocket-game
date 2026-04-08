@@ -5,6 +5,10 @@ A 2D OpenGL/GLUT shooting game built in C++. Shoot incoming enemy rockets from t
 **Author:** Arda Saritas  
 **Course:** CTIS164 Section 01
 
+## Demo 
+
+https://github.com/user-attachments/assets/f8b86542-3f4c-4ebb-be42-b85a9a297f92
+
 ## Gameplay
 
 Five enemy rockets fly across the screen from left to right. You control a turret at the bottom and fire a projectile upward to intercept them. Points are awarded based on how close to the center of the rocket you hit.
